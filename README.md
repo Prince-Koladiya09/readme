@@ -1,5 +1,4 @@
-# readme
-About me
+
 # 💫 About Me:
 🔭 I’m currently working on EY AI & Data Science Challenge<br>🌱 I’m currently learning gen ai<br>
 
